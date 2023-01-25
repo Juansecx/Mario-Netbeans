@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    
+    display: flex;
+    justify-content: center;
+    background-color: black;
+
+    
+}
+
+.header h1 {
+    
+    color:white;
+}
+
+.formulario {
+    
+    display: flex;
+    justify-content: center;
+    background-image:linear-gradient(to right,red,orange);
+    height: 870px;
+    align-items:center;
+    
+}
+
+form {
+   display: flex;
+   flex-direction: column;
+   
+}
+
+input {
+    
+    margin: 20px auto;
+}
+
+
+
+
+table {
+    
+    font-size: 20px;
+    width: fit-content;
+    margin: 20px auto;
+    
+}
+
+table tr th {
+    
+    background-color: #72E1FF;
+    
+}
+
+
+
+
